@@ -37,7 +37,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |11       | [FibonacciSeries.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeries.java) | Program to generate fibonacci series upto n value (Dynamic Method). |
 |12       | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.java) | Program to find the root of quadratic equation (Static Method). |
 |13       | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
-|14       | [Calculator]() | Program that implements the arithmetic operation (Calculator) using switch statement.
+|14       | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
 
 
 
@@ -58,7 +58,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |2        | [PrimeNo.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNo.java) | Program to display first n Prime number (Dynamic Method). |
 |2        | [FibonacciSeries.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeries.java) | Program to generate fibonacci series upto n value (Dynamic Method). |
 |2        | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
-|3        | [Calculator]() | Program that implements the arithmetic operation (Calculator) using switch statement.
+|3        | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
 
 
 
