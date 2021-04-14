@@ -1,4 +1,4 @@
-# JAVA Programs for everybody to try!
+# JAVA Programs For Everybody To Try!
 
 _`Last Updated: April 14' 2021`_
 
@@ -57,7 +57,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |2        | FibonacciSeries.java | Program to generate fibonacci series upto n value (Dynamic Method). |
 |2        | RootsOfQuadracticEquation.java | Program to find the root of quadratic equation (Dynamic Method). |
 
-## [License]():
+## [License](https://github.com/psavarmattas/Java-Projects/blob/master/LICENSE):
 
 Copyright (c) 2021 PSMForums. All rights reserved. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
