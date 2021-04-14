@@ -24,38 +24,43 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 
 |Serial No.|Program Name|Description of the program|
 |----------|------------|--------------------------|
-|1        | HelloWorld.java | Program to print out "Hello World" |
-|2        | EvenOdd.java | Program to find out the number entered is Even/Odd (Static Method). |
-|3        | EvenOddDynamic.java | Program to find out the number entered is Even/Odd (Dynamic Method). |
-|4        | LargestNumberStatic.java | Program to find out the largest number (Static Method). |
-|5        | LargestNumber.java | Program to find out the largest number (Dynamic Method). |
-|6        | PrimeOrNotStatic.java | Program to find out the prime or not (Static Method). |
-|7        | PrimeOrNot.java | Program to find out the prime or not (Dynamic Method). |
-|8        | PrimeNoStatic.java | Program to display first n Prime number (Static Method). |
-|9        | PrimeNo.java | Program to display first n Prime number (Dynamic Method). |
-|10       | FibonacciSeriesStatic.java | Program to generate fibonacci series upto n value (Static Method). |
-|11       | FibonacciSeries.java | Program to generate fibonacci series upto n value (Dynamic Method). |
-|12       | RootsOfQuadracticEquationStatic.java | Program to find the root of quadratic equation (Static Method). |
-|13       | RootsOfQuadracticEquation.java | Program to find the root of quadratic equation (Dynamic Method). |
+|1        | [HelloWorld.java](https://github.com/psavarmattas/Java-Projects/blob/master/HelloWorld.java) | Program to print out "Hello World" |
+|2        | [EvenOdd.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOdd.java) | Program to find out the number entered is Even/Odd (Static Method). |
+|3        | [EvenOddDynamic.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOddDynamic.java) | Program to find out the number entered is Even/Odd (Dynamic Method). |
+|4        | [LargestNumberStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumberStatic.java) | Program to find out the largest number (Static Method). |
+|5        | [LargestNumber.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumber.java) | Program to find out the largest number (Dynamic Method). |
+|6        | [PrimeOrNotStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to find out the prime or not (Static Method). |
+|7        | [PrimeOrNot.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeOrNot.java) | Program to find out the prime or not (Dynamic Method). |
+|8        | [PrimeNoStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to display first n Prime number (Static Method). |
+|9        | [PrimeNo.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNo.java) | Program to display first n Prime number (Dynamic Method). |
+|10       | [FibonacciSeriesStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeriesStatic.java) | Program to generate fibonacci series upto n value (Static Method). |
+|11       | [FibonacciSeries.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeries.java) | Program to generate fibonacci series upto n value (Dynamic Method). |
+|12       | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.java) | Program to find the root of quadratic equation (Static Method). |
+|13       | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
+|14       | [Calculator]() | Program that implements the arithmetic operation (Calculator) using switch statement.
+
 
 
 ## Levels:
 
 |Level No.|Program Name|Description of the program|
 |----------|------------|--------------------------|
-|1        | HelloWorld.java | Program to print out "Hello World" |
-|1        | EvenOdd.java | Program to find out the number entered is Even/Odd (Static Method). |
-|1        | LargestNumberStatic.java | Program to find out the largest number (Static Method). |
-|1        | PrimeOrNotStatic.java | Program to find out the prime or not (Static Method). |
-|1        | PrimeNoStatic.java | Program to display first n Prime number (Static Method). |
-|1        | FibonacciSeriesStatic.java | Program to generate fibonacci series upto n value (Static Method). |
-|1        | RootsOfQuadracticEquationStatic.java | Program to find the root of quadratic equation (Static Method). |
-|2        | EvenOddDynamic.java | Program to find out the number entered is Even/Odd (Dynamic Method). |
-|2        | LargestNumber.java | Program to find out the largest number (Dynamic Method). |
-|2        | PrimeOrNot.java | Program to find out the prime or not (Dynamic Method). |
-|2        | PrimeNo.java | Program to display first n Prime number (Dynamic Method). |
-|2        | FibonacciSeries.java | Program to generate fibonacci series upto n value (Dynamic Method). |
-|2        | RootsOfQuadracticEquation.java | Program to find the root of quadratic equation (Dynamic Method). |
+|1        | [HelloWorld.java](https://github.com/psavarmattas/Java-Projects/blob/master/HelloWorld.java) | Program to print out "Hello World" |
+|1        | [EvenOdd.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOdd.java) | Program to find out the number entered is Even/Odd (Static Method). |
+|1        | [LargestNumberStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumberStatic.java) | Program to find out the largest number (Static Method). |
+|1        | [PrimeOrNotStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to find out the prime or not (Static Method). |
+|1        | [PrimeNoStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to display first n Prime number (Static Method). |
+|1        | [FibonacciSeriesStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeriesStatic.java) | Program to generate fibonacci series upto n value (Static Method). |
+|1        | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.javav) | Program to find the root of quadratic equation (Static Method). |
+|2        | [EvenOddDynamic.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOddDynamic.java) | Program to find out the number entered is Even/Odd (Dynamic Method). |
+|2        | [LargestNumber.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumber.java) | Program to find out the largest number (Dynamic Method). |
+|2        | [PrimeOrNot.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeOrNot.java) | Program to find out the prime or not (Dynamic Method). |
+|2        | [PrimeNo.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNo.java) | Program to display first n Prime number (Dynamic Method). |
+|2        | [FibonacciSeries.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeries.java) | Program to generate fibonacci series upto n value (Dynamic Method). |
+|2        | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
+|3        | [Calculator]() | Program that implements the arithmetic operation (Calculator) using switch statement.
+
+
 
 ## [License](https://github.com/psavarmattas/Java-Projects/blob/master/LICENSE):
 
