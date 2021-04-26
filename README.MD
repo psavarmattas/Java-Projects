@@ -1,6 +1,6 @@
 # JAVA Programs For Everybody To Try!
 
-_`Last Updated: April 25' 2021`_
+_`Last Updated: April 26' 2021`_
 
 ## Introduction:
 
@@ -38,6 +38,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |12       | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.java) | Program to find the root of quadratic equation (Static Method). |
 |13       | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
 |14       | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
+|15       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers |
 
 
 
@@ -53,6 +54,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |1        | [FibonacciSeriesStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeriesStatic.java) | Program to generate fibonacci series upto n value (Static Method). |
 |1        | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.javav) | Program to find the root of quadratic equation (Static Method). |
 |2        | [EvenOddDynamic.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOddDynamic.java) | Program to find out the number entered is Even/Odd (Dynamic Method). |
+|2       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers |
 |2        | [LargestNumber.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumber.java) | Program to find out the largest number (Dynamic Method). |
 |2        | [PrimeOrNot.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeOrNot.java) | Program to find out the prime or not (Dynamic Method). |
 |2        | [PrimeNo.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNo.java) | Program to display first n Prime number (Dynamic Method). |
