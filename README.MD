@@ -40,6 +40,8 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |14       | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
 |15       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers. |
 |16       | [InputFromKeyBoard.java](https://github.com/psavarmattas/Java-Projects/blob/master/InputFromKeyBoard.java) | Program to demonstrate input from keyboard using Command line argument. |
+|17       | [FirstNonRepeatingStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeatingStatic.java) | Program to find first non-repeating character in a string (Static Method). |
+|18       | [FirstNonRepeating.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeating.java) | Program to find first non-repeating character in a string (Dynamic Method). |
 
 
 
@@ -55,6 +57,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |1        | [PrimeNoStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to display first n Prime number (Static Method). |
 |1        | [FibonacciSeriesStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeriesStatic.java) | Program to generate fibonacci series upto n value (Static Method). |
 |1        | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.javav) | Program to find the root of quadratic equation (Static Method). |
+|1       | [FirstNonRepeatingStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeatingStatic.java) | Program to find first non-repeating character in a string (Static Method). |
 |2        | [EvenOddDynamic.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOddDynamic.java) | Program to find out the number entered is Even/Odd (Dynamic Method). |
 |2       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers |
 |2        | [LargestNumber.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumber.java) | Program to find out the largest number (Dynamic Method). |
@@ -62,6 +65,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |2        | [PrimeNo.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNo.java) | Program to display first n Prime number (Dynamic Method). |
 |2        | [FibonacciSeries.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeries.java) | Program to generate fibonacci series upto n value (Dynamic Method). |
 |2        | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
+|2       | [FirstNonRepeating.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeating.java) | Program to find first non-repeating character in a string (Dynamic Method). |
 |3        | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
 
 

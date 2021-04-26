@@ -1,0 +1,26 @@
+// Program to find first non-repeating character in a string (Dynamic Method).
+
+import java.util.Scanner;
+
+public class FirstNonRepeating {
+    public static void main(String[] args) {
+        String str1;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the string: ");  
+        str1 = sc.next();
+        System.out.println("The given string is: " + str1);
+        for (int i = 0; i < str1.length(); i++) {
+            boolean unique = true;
+            for (int j = 0; j < str1.length(); j++) {
+                if (i != j && str1.charAt(i) == str1.charAt(j)) {
+                    unique = false;
+                    break;
+                }
+            }
+            if (unique) {
+            System.out.println("The first non repeated character in String is: " + str1.charAt(i));
+            break;
+            }
+        }
+    }
+}
