@@ -38,7 +38,8 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |12       | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.java) | Program to find the root of quadratic equation (Static Method). |
 |13       | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
 |14       | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
-|15       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers |
+|15       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers. |
+|16       | [InputFromKeyBoard.java](https://github.com/psavarmattas/Java-Projects/blob/master/InputFromKeyBoard.java) | Program to demonstrate input from keyboard using Command line argument. |
 
 
 
@@ -48,6 +49,7 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |----------|------------|--------------------------|
 |1        | [HelloWorld.java](https://github.com/psavarmattas/Java-Projects/blob/master/HelloWorld.java) | Program to print out "Hello World" |
 |1        | [EvenOdd.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOdd.java) | Program to find out the number entered is Even/Odd (Static Method). |
+|1       | [InputFromKeyBoard.java](https://github.com/psavarmattas/Java-Projects/blob/master/InputFromKeyBoard.java) | Program to demonstrate input from keyboard using Command line argument. |
 |1        | [LargestNumberStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumberStatic.java) | Program to find out the largest number (Static Method). |
 |1        | [PrimeOrNotStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to find out the prime or not (Static Method). |
 |1        | [PrimeNoStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/PrimeNoStatic.java) | Program to display first n Prime number (Static Method). |
