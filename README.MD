@@ -1,6 +1,6 @@
 # JAVA Programs For Everybody To Try!
 
-_`Last Updated: April 26' 2021`_
+_`Last Updated: June 07' 2021`_
 
 ## Introduction:
 
@@ -39,9 +39,16 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |13       | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
 |14       | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
 |15       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers. |
-|16       | [InputFromKeyBoard.java](https://github.com/psavarmattas/Java-Projects/blob/master/InputFromKeyBoard.java) | Program to demonstrate input from keyboard using Command line argument. |
+|16       | [InputFromKeyBoard.java](https://github.com/psavarmattas/Java-Projects/blob/master/InputFromKeyBoard.java) | Program to demonstrate input from keyboard using Scanner. |
 |17       | [FirstNonRepeatingStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeatingStatic.java) | Program to find first non-repeating character in a string (Static Method). |
 |18       | [FirstNonRepeating.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeating.java) | Program to find first non-repeating character in a string (Dynamic Method). |
+|19       | [OccuringCharacters.java](https://github.com/psavarmattas/Java-Projects/blob/master/OccuringCharacters.java) | Program to find the maximum occurring character in a string. |
+|20       | [MethodOverride.java](https://github.com/psavarmattas/Java-Projects/blob/master/MethodOverloading.java) | Program in java to demonstrate method overloading. |
+|21       | [Voter.java](https://github.com/psavarmattas/Java-Projects/blob/master/Voter.java) | Program to store Voter detail as voter id, voter name & monthly income for a voter in a class. Compute annual income & display the detail. Use parameterized constructor. |
+|22       | [ChainConstructor.java](https://github.com/psavarmattas/Java-Projects/blob/master/ChainConstructor.java) | Program in java to demonstrate chain constructor. |
+|23       | [OddEvenNumberOutput.java](https://github.com/psavarmattas/Java-Projects/blob/master/OddEvenNumberOutput.java) | Program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. |
+|24       | [CommandLineInput.java](https://github.com/psavarmattas/Java-Projects/blob/master/CommandLineInput.java) | Program in java to demonstrate input from keyboard using Comand Line Argument. |
+|25       | [ThreeInteger.java](https://github.com/psavarmattas/Java-Projects/blob/master/ThreeInteger.java) | Program that accepts three integers from the user and return true if the second number is greater than first number and third number is greater than second number. If "abc" is true second number does not need to be greater than first number. |
 
 
 
@@ -58,6 +65,11 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |1        | [FibonacciSeriesStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeriesStatic.java) | Program to generate fibonacci series upto n value (Static Method). |
 |1        | [RootsOfQuadracticEquationStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquationStatic.javav) | Program to find the root of quadratic equation (Static Method). |
 |1       | [FirstNonRepeatingStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeatingStatic.java) | Program to find first non-repeating character in a string (Static Method). |
+|1       | [InputFromKeyBoard.java](https://github.com/psavarmattas/Java-Projects/blob/master/InputFromKeyBoard.java) | Program to demonstrate input from keyboard using Scanner. |
+|1       | [FirstNonRepeatingStatic.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeatingStatic.java) | Program to find first non-repeating character in a string (Static Method). |
+|1       | [OccuringCharacters.java](https://github.com/psavarmattas/Java-Projects/blob/master/OccuringCharacters.java) | Program to find the maximum occurring character in a string. |
+|1       | [OddEvenNumberOutput.java](https://github.com/psavarmattas/Java-Projects/blob/master/OddEvenNumberOutput.java) | Program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. |
+|1       | [CommandLineInput.java](https://github.com/psavarmattas/Java-Projects/blob/master/CommandLineInput.java) | Program in java to demonstrate input from keyboard using Comand Line Argument. |
 |2        | [EvenOddDynamic.java](https://github.com/psavarmattas/Java-Projects/blob/master/EvenOddDynamic.java) | Program to find out the number entered is Even/Odd (Dynamic Method). |
 |2       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers |
 |2        | [LargestNumber.java](https://github.com/psavarmattas/Java-Projects/blob/master/LargestNumber.java) | Program to find out the largest number (Dynamic Method). |
@@ -66,6 +78,12 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |2        | [FibonacciSeries.java](https://github.com/psavarmattas/Java-Projects/blob/master/FibonacciSeries.java) | Program to generate fibonacci series upto n value (Dynamic Method). |
 |2        | [RootsOfQuadracticEquation.java](https://github.com/psavarmattas/Java-Projects/blob/master/RootsOfQuadraticEquation.java) | Program to find the root of quadratic equation (Dynamic Method). |
 |2       | [FirstNonRepeating.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeating.java) | Program to find first non-repeating character in a string (Dynamic Method). |
+|2       | [ArithmeticOperations.java](https://github.com/psavarmattas/Java-Projects/blob/master/ArithmeticOperations.java) | Program to print the sum (addition), multiply, subtract, divide and remainder of two numbers. |
+|2       | [FirstNonRepeating.java](https://github.com/psavarmattas/Java-Projects/blob/master/FirstNonRepeating.java) | Program to find first non-repeating character in a string (Dynamic Method). |
+|2       | [MethodOverride.java](https://github.com/psavarmattas/Java-Projects/blob/master/MethodOverloading.java) | Program in java to demonstrate method overloading. |
+|2       | [Voter.java](https://github.com/psavarmattas/Java-Projects/blob/master/Voter.java) | Program to store Voter detail as voter id, voter name & monthly income for a voter in a class. Compute annual income & display the detail. Use parameterized constructor. |
+|2       | [ChainConstructor.java](https://github.com/psavarmattas/Java-Projects/blob/master/ChainConstructor.java) | Program in java to demonstrate chain constructor. |
+|2       | [ThreeInteger.java](https://github.com/psavarmattas/Java-Projects/blob/master/ThreeInteger.java) | Program that accepts three integers from the user and return true if the second number is greater than first number and third number is greater than second number. If "abc" is true second number does not need to be greater than first number. |
 |3        | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
 
 

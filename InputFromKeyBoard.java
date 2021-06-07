@@ -1,4 +1,4 @@
-// Program to demonstrate input from keyboard using Command line argument.
+// Program to demonstrate input from keyboard using Scanner.
 
 import java.util.Scanner;
 
