@@ -49,6 +49,8 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |23       | [OddEvenNumberOutput.java](https://github.com/psavarmattas/Java-Projects/blob/master/OddEvenNumberOutput.java) | Program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. |
 |24       | [CommandLineInput.java](https://github.com/psavarmattas/Java-Projects/blob/master/CommandLineInput.java) | Program in java to demonstrate input from keyboard using Comand Line Argument. |
 |25       | [ThreeInteger.java](https://github.com/psavarmattas/Java-Projects/blob/master/ThreeInteger.java) | Program that accepts three integers from the user and return true if the second number is greater than first number and third number is greater than second number. If "abc" is true second number does not need to be greater than first number. |
+|26       | [MultiLevelInheritance.java](https://github.com/psavarmattas/Java-Projects/blob/master/MultiLevelInheritance.java) | Program in java to demonstrate multilevel inheritance in java. |
+|27       | [AbstractClassProgram](https://github.com/psavarmattas/Java-Projects/blob/master/AbstractClassProgram.java) | Program to create an abstract class named Shape that contains two integers and an empty method named print Area (). Provide three classes named Rectangle, Triangle and Circle such that each one of the classes extends the class Shape. Each one of the classes contains only the method print Area () that prints the area of the given shape. |
 
 
 
@@ -84,7 +86,9 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |2       | [Voter.java](https://github.com/psavarmattas/Java-Projects/blob/master/Voter.java) | Program to store Voter detail as voter id, voter name & monthly income for a voter in a class. Compute annual income & display the detail. Use parameterized constructor. |
 |2       | [ChainConstructor.java](https://github.com/psavarmattas/Java-Projects/blob/master/ChainConstructor.java) | Program in java to demonstrate chain constructor. |
 |2       | [ThreeInteger.java](https://github.com/psavarmattas/Java-Projects/blob/master/ThreeInteger.java) | Program that accepts three integers from the user and return true if the second number is greater than first number and third number is greater than second number. If "abc" is true second number does not need to be greater than first number. |
-|3        | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement.
+|2       | [MultiLevelInheritance.java](https://github.com/psavarmattas/Java-Projects/blob/master/MultiLevelInheritance.java) | Program in java to demonstrate multilevel inheritance in java. |
+|3        | [Calculator](https://github.com/psavarmattas/Java-Projects/blob/master/Calculator.java) | Program that implements the arithmetic operation (Calculator) using switch statement. |
+|3       | [AbstractClassProgram](https://github.com/psavarmattas/Java-Projects/blob/master/AbstractClassProgram.java) | Program to create an abstract class named Shape that contains two integers and an empty method named print Area (). Provide three classes named Rectangle, Triangle and Circle such that each one of the classes extends the class Shape. Each one of the classes contains only the method print Area () that prints the area of the given shape. |
 
 
 
