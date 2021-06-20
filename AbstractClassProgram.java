@@ -18,7 +18,7 @@ abstract class Shape {
 
 class Rectangle extends Shape {
 	void printArea() {
-		System.out.println("* Finding the Area of Rectangle *");
+		System.out.println("** Finding the Area of Rectangle **");
 		System.out.print("Enter length and breadth: ");
 		length = input.nextInt();
 		breadth = input.nextInt();
