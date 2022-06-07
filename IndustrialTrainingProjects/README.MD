@@ -12,7 +12,7 @@ the training program. **
 
 2. Check that Java is properly installed in your system and the Path to Java is integratively set in your system.
 
-3. Start by trying to create the program by yourself if you encounter any problems refer to the code in the program file, 
+3. Start by trying to create the program by yourself if you encounter any problems refer to the code in the program file.
 if the problem still persist then create a issue or use Google/Stack Overlflow for help.
 
 4. Done! You have successfully created the program in Java by your own.
