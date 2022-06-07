@@ -23,4 +23,4 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |----------|------------|--------------------------|
 |1        | [PrivateConBasic.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/PrivateConBasic.java) | Program to implement private constructor using the basic method. |
 |2        | [PrivateConSingleton.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/PrivateConSingleton.java) | Program to implement private constructor using the Singleton method. |
-|3        | [EmployeeModelClass.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/EmployeeModelClass.java) | // Program to create Model Class, getter, setters and display the data. |
+|3        | [EmployeeModelClass.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/EmployeeModelClass.java) | Program to create Model Class, getter, setters and display the data. |
