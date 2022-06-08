@@ -24,4 +24,4 @@ if the problem still persist then create a issue or use Google/Stack Overlflow f
 |1        | [PrivateConBasic.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/PrivateConBasic.java) | Program to implement private constructor using the basic method. |
 |2        | [PrivateConSingleton.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/PrivateConSingleton.java) | Program to implement private constructor using the Singleton method. |
 |3        | [EmployeeModelClass.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/EmployeeModelClass.java) | Program to create Model Class, Getters, Setters and display the data. |
-|4        | [NaturalNoPrint.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/NaturalNoPrint.java) | // Program to print Natural numbers from 1 to 10. |
+|4        | [TwoDimensionalArraySum.java](https://github.com/psavarmattas/Java-Projects/blob/master/IndustrialTrainingProjects/TwoDimensionalArraySum.java) | // Program to sum 2 two dimensional arrays forming a matrix. |
