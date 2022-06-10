@@ -2,7 +2,10 @@
 // You are builing an interest calculation. Following are the rules:
 // 1. If deposit = 1yr : Interest = 5%
 // 2. If deposit = Greater than 1 yr and less than 3yr : Interest = 5.5%
-// 3. If deposit = Greater than 3 yr : Interest = 6%
+// 3. If deposit = Greater than 3 yr and less than 5yr : Interest = 6%
+// 4. If deposit = Greater than 5 yr : Interest = 6.5%
+// 5. If age = Less than 18 : + 1%
+// 6. If age = Less than 60 : + 1.5%
 // Input from user for Principle Amount & Tenture (time period).
 // Output Principle + Interest.
 
@@ -14,6 +17,7 @@ public class CompoundInterestCalculator{
     public static void main(String[] args){
         //Declare and initialize the variables 
         float p , r=0 , t  , n = 1; 
+        int age = 0;
 
         Scanner inputScanner = new Scanner(System.in);
 
@@ -22,6 +26,9 @@ public class CompoundInterestCalculator{
 
         System.out.print("\nEnter a Time period in years : ");
         t = inputScanner.nextInt();
+
+        System.out.print("\nEnter your age in years : ");
+        age = inputScanner.nextInt();
 
         // checks if time is less than 1 yr
         if (t <= 1) {
@@ -32,10 +39,26 @@ public class CompoundInterestCalculator{
         else if ((t > 1) && (t <= 3)) {
             r = (float) 5.5;
         }
-        
-        // if both condition is false
-        else {
+
+        // checks if time is greater than 3 yr and time is less than 5 yr
+        else if ((t > 3) && (t <= 5)) {
             r = 6;
+        }
+
+        // checks if time is greater than 5 yr
+        else if (t > 5) {
+            r = (float) 6.5;
+        }
+
+
+        if (age <= 18) {
+            r = r + 1 ;
+        }
+        else if (age <= 60) {
+            r = (float) (r + 1.5);
+        }
+        else {
+            System.out.println("Error Wrong Age Input!");
         }
 
         //Print the variables and their corresponding values
