@@ -50,13 +50,17 @@ public class CompoundInterestCalculator{
             r = (float) 6.5;
         }
 
-
+        // checks if age is less than 18 yr
         if (age <= 18) {
             r = r + 1 ;
         }
-        else if (age <= 60) {
+
+        // checks if age is greater than 18 yr and is less than 60 yr
+        else if ((age > 18) && (age <= 60)) {
             r = (float) (r + 1.5);
         }
+
+        // Input error check
         else {
             System.out.println("Error Wrong Age Input!");
         }
